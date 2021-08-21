@@ -1,10 +1,8 @@
 # Safari Booking ASP.Net MVC with ASP.Net API
 
-This project is the updated version of Console Application .Net to Web Application ASP.MVC and ASP.API 
-<br />
-[Console Application Project .Net](https://github.com/pratyushatrivedi07/SafariBooking-ConsoleApp-.net)
+This project is the updated version of [Console Application Project .Net](https://github.com/pratyushatrivedi07/SafariBooking-ConsoleApp-.net) to Web Application ASP.MVC and ASP.API 
 
-###### *The project follows Database First Approach.*
+#### *The project follows Database First Approach.*
 
 This project is aimed at developing an online Jungle Safari Booking Management System for Forest Department. It is a .Net Console Application that can be used to Book Jungle Safari for various Tiger Reserves and Sanctuaries. Based on the roles (Admin, Tourist) the user can perform and access different features of the application such as Book the Safari (Tourist), add, update or delete parks or safaris (Admin). This system also uses SQL to store the Users, Parks, Safaris, etc.
 <br />
