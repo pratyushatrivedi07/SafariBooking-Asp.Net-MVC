@@ -27,7 +27,7 @@ There are two categories of users who would access the system viz. â€œTouristsâ€
     <br />
     
     
-   ##### *To run the solution Go to JungleSafari.Api - appsettings.json file and Add Your Server Name in "Data Source" and Database Name in "Intial Catalog"*
+   ##### *To run the solution Go to JungleSafari.Api - appsettings.json file and Add Your Server Name in "Data Source" and Database Name in "Intial Catalog" and do the same thing in appsettings.json file of Jungle.MVC.API folder*
    
   ![app](https://user-images.githubusercontent.com/42665547/130330751-71c96cde-a585-40e9-addc-8a207860b16e.png)
 
