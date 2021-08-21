@@ -32,6 +32,11 @@ There are two categories of users who would access the system viz. â€œTouristsâ€
   ![app](https://user-images.githubusercontent.com/42665547/130330751-71c96cde-a585-40e9-addc-8a207860b16e.png)
 
 
+### The project follows the following flow:
+When the request is made, the MVC Controller calls the Web API Controller which then calls the Repository. The Repository interacts with the Database and follows the same steps back i.e. from Repository to API Controller to MVC Controller to the Webpage.
+
+###### *The project follows Database First Approach.*
+
   
    
 
