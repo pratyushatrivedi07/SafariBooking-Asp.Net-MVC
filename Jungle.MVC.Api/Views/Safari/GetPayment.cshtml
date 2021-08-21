@@ -1,0 +1,106 @@
+﻿@model Jungle.Entities.Payment
+
+@{
+    ViewData["Title"] = "GetPayment";
+}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.1/html2pdf.bundle.min.js"></script>
+<link rel="stylesheet" href="~/css/style4.css">
+
+<div class="offset-xl-2 col-xl-8 col-lg-12 col-md-12 col-sm-12 col-12 padding" id="invoice">
+    <h1 style="color:forestgreen; text-align:center">Booking Successful</h1>
+    <div class="card">
+        <div class="card-header p-4">
+            <a class="pt-2 d-inline-block" href="index.html" data-abc="true"><img src="~/images/logo.png" /></a>
+            <div class="float-right">
+                <h3 class="mb-0">Invoice #JSB-@Html.DisplayFor(model => model.BookingId)</h3>
+                <p style="font-size:small; color:crimson">***The digit part is your Booking Id</p>
+                @DateTime.Today.ToString("d")
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="row mb-4">
+                <div class="col-sm-6">
+                    <h5 class="mb-3">From:</h5>
+                    <h3 class="text-dark mb-1">Jungle Safari Booking Team</h3>
+                </div>
+                <div class="col-sm-6 float-right">
+                    <h5 class="mb-3">To:</h5>
+                    <h3 class="text-dark mb-1">@Html.DisplayFor(model => model.TouristName)</h3>
+                    <div>@Html.DisplayFor(model => model.Email)</div>
+                    <div>@Html.DisplayFor(model => model.MobileNo)</div>
+                </div>
+            </div>
+            <div class="table-responsive-sm">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th class="center">#</th>
+                            <th>Name</th>
+                            <th class="right">Entry Fees</th>
+                            <th class="center">Number of People</th>
+                            <th class="right">Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="center">1</td>
+                            <td class="left strong">@Html.DisplayFor(model => model.ParkName)</td>
+                            <td class="right">@Html.DisplayFor(model => model.ParkCost)</td>
+                            <td class="center">@Html.DisplayFor(model => model.People)</td>
+                            <td class="right">@Convert.ToDouble((Model.ParkCost * Model.People))</td>
+                        </tr>
+                        <tr>
+                            <td class="center">2</td>
+                            <td class="left">@Html.DisplayFor(model => model.SafariName)</td>
+                            <td class="right">@Html.DisplayFor(model => model.SafariCost)</td>
+                            <td class="center">@Html.DisplayFor(model => model.People)</td>
+                            <td class="right">@Convert.ToDouble((Model.SafariCost * Model.People))</td>
+                        </tr>
+                        <tr>
+                            <td class="center">3</td>
+                            <td class="left">@Html.DisplayFor(model => model.VehicleName)</td>
+                            <td class="right">@Html.DisplayFor(model => model.VehicleCost)</td>
+                            <td class="center">@Html.DisplayFor(model => model.People)</td>
+                            <td class="right">@Html.DisplayFor(model => model.VehicleCost)</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-5">
+                </div>
+                <div class="col-lg-4 col-sm-5 ml-auto">
+                    <table class="table table-clear">
+                        <tbody>
+                            <tr>
+                                <td class="left">
+                                    <strong class="text-dark">Subtotal</strong>
+                                </td>
+                                <td class="right">@Html.DisplayFor(model => model.Total)</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer bg-white">
+            <h3 style="color: orangered">Thank you for Booking a Safari</h3>
+            <p>Your Entry will be from @Html.DisplayFor(model => model.GateName) Gate</p>
+            <p class="mb-0" style="color: indigo">Please bring the Identity Proof when you visit!</p>
+            <br />
+            <h6>**This is computer generated invoice no signature required.</h6>
+        </div>
+    </div>
+</div>
+
+<div class="center">
+    <input style="margin-top: 15px;margin-left:45%;" type="submit" value="Download" id="downloadPdf" class="btn" />
+</div>
+
+<script>
+    document.getElementById("downloadPdf").addEventListener("click", function () {
+        const element = document.getElementById("invoice");
+        html2pdf().from(element).save();
+    });
+</script>

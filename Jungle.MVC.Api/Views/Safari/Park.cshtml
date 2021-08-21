@@ -1,0 +1,88 @@
+﻿@model IEnumerable<Jungle.Entities.SafariDetail>
+
+@{
+    ViewData["Title"] = "Park";
+}
+
+<h1>Safaris by Park</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Park">
+            <div class="form-group">
+                <label class="control-label">Parks</label>
+                <select name="department" class="form-control" asp-items="@ViewData["Park"] as SelectList">
+                    <option value="" selected disabled>Select..</option>
+                </select>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Count() == 0)
+{
+    <span class="alert-info">No Safari in this Park</span>
+}
+
+@if (Model != null && Model.Count() > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.SafariId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SafariName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SafariDate)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SafariTime)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ParkId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SafariCost)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SafariId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SafariName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SafariDate)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SafariTime)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ParkId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SafariCost)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                        @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

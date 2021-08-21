@@ -1,0 +1,39 @@
+﻿
+body {
+    background-image: linear-gradient(rgba(2, 109, 46, 0.7),rgba(0, 2, 1, 0.486)),url(../images/t.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+}
+
+
+.body {
+    position: fixed;
+    top: 58%;
+    left: 50%;
+    width: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.6);
+    border-radius: 10%;
+}
+
+table td {
+    padding: 20px;
+}
+
+.foot {
+    border: 1px solid snow;
+    padding: 4px;
+    letter-spacing: 1px;
+    color: snow;
+}
+
+.btn-danger {
+    border-radius: 4px;
+    margin-left: 38%;
+}
+

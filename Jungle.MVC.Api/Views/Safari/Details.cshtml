@@ -1,0 +1,48 @@
+﻿@model Jungle.Entities.SafariDetail
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link href="~/css/SafariDetail.css" rel="stylesheet" />
+
+
+<div class="body">
+    <h4 style="text-align:center;text-decoration:dashed;"> Safari Details</h4>
+    <table>
+
+        @*<tr>
+            <td>  @Html.DisplayNameFor(model => model.SafariId)</td>
+            <td>   @Html.DisplayFor(model => model.SafariId)</td>
+        </tr>*@
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.SafariName)</td>
+            <td>     @Html.DisplayFor(model => model.SafariName)</td>
+        </tr>
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.SafariDate)</td>
+            <td>   @Html.DisplayFor(model => model.SafariDate)</td>
+        </tr>
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.SafariTime)</td>
+            <td>
+                @{
+                    var slot = (Slot)Enum.Parse(typeof(Slot), Model.SafariTime.ToString());
+                    @Html.DisplayFor(modelItem => slot);
+                }
+            </td>
+        </tr>
+        @*<tr>
+            <td>   @Html.DisplayNameFor(model => model.ParkId)</td>
+            <td>  @Html.DisplayFor(model => model.ParkId)</td>
+        </tr>*@
+        <tr>
+            <td>  @Html.DisplayNameFor(model => model.SafariCost)</td>
+            <td>  @Html.DisplayFor(model => model.SafariCost)</td>
+        </tr>
+    </table>
+    <div>
+        <a style="position:relative;text-decoration:none; color:black; border:none; margin-top:100%; padding: 8px 8px; border-radius:4px;" asp-action="Index" class="foot btn-warning">Back to Safari List</a>
+    </div>
+</div>
+
+

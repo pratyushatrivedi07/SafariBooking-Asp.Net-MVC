@@ -1,0 +1,289 @@
+﻿@model Jungle.MVC.Api.Models.BookingViewModel
+@using Jungle.Entities;
+@{
+    ViewData["Title"] = "Book";
+}
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link rel="stylesheet" href="~/css/style3.css">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style3.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+
+    <div class="container">
+        <form class="form-group" asp-action="Book">
+            <div id="form">
+                <h1 class="text-black-50 text-center" style="margin-top:20px; font-weight:800; color:black">Book Now</h1>
+
+                <div id="first-group">
+                    <div class="form-group" hidden>
+                        <label asp-for="ParkId" class="control-label"></label>
+                        <input asp-for="ParkId" class="form-control" />
+                        <span asp-validation-for="ParkId" class="text-danger"></span>
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-tree" aria-hidden="true"></i>
+                        <input asp-for="ParkName" style="background-color: #b6b6b6;" disabled class="input-group form-control" />
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-car" aria-hidden="true"></i>
+                        <select asp-for="VId" style="background-color: #b6b6b6;" required class="input-group form-control" asp-items="@ViewBag.VId">
+                            <option value="" selected style="color:black;" disabled>Select Vehicle..</option>
+                        </select>
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        <input asp-for="Name" required class="input-group form-control" placeholder="Name" />
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <input asp-for="MobileNo" required type="number" id="m" value="" onblur="MobileValidate();" class="input-group form-control" placeholder="Mobile Number" />
+                        <span asp-validation-for="MobileNo" id="invalidM" class="text-danger"></span>
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                        <input asp-for="City" required type="text" class="input-group form-control" placeholder="City" />
+                    </div>
+
+                    <div id="content">
+                        <i class="fa  fa-venus" aria-hidden="true"></i>
+                        @foreach (Gender item in Enum.GetValues(typeof(Gender)))
+                        {
+                            <input class="radio" required asp-for="Gender" type="radio" value="@item" /> @item
+                        }
+                    </div>
+
+                    <div id="content">
+                        <i class="fa  fa-users" aria-hidden="true"></i>
+                        <input asp-for="People" id="pep" value="" onblur="numberValidate();" class="input-group form-control" required placeholder="Number of People" />
+                        <span asp-validation-for="People" id="invalidpeople" class="text-danger"></span>
+                    </div>
+
+                    <div>
+                        <input type="submit" value="Book" class="btn" id="submit-btn" />
+                    </div>
+
+                </div>
+
+                <div id="second-group">
+                    <div class="form-group" hidden>
+                        <label asp-for="SafariId" class="control-label"></label>
+                        <input asp-for="SafariId" class="form-control" />
+                        <span asp-validation-for="SafariId" class="text-danger"></span>
+                    </div>
+                    <div id="content">
+                        <i class="fa fa-binoculars" aria-hidden="true"></i>
+                        <input asp-for="SafariName" style="background-color: #b6b6b6;" disabled class="input-group form-control" />
+                    </div>
+
+                    <div id="content">
+                        <i class="fa  fa-universal-access" aria-hidden="true"></i>
+                        <select asp-for="gateId" style="background-color: #b6b6b6;" required class="input-group form-control" asp-items="@ViewBag.GateId">
+                            <option value="" selected style="color:black;" disabled>Select Gate..</option>
+                        </select>
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-calendar" aria-hidden="true"></i>
+                        <input asp-for="DateOfBirth" required value="" id="dob" onblur="dObValidate();" data-date-format="yyyy-mm-dd" class="input-group form-control" placeholder=" Date Of Birth" />
+                        <span asp-validation-for="DateOfBirth" id="invalidob" class="text-danger"></span>
+                    </div>
+
+
+                    <div id="content">
+                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                        <input asp-for="EmailId" required id="email" onblur="EmailValidate();" class="input-group form-control" placeholder="Email" />
+                        <span asp-validation-for="EmailId" id="invalie" class="text-danger"></span>
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-globe" aria-hidden="true"></i>
+                        <input asp-for="Country" required type="text" class="input-group form-control" placeholder="Country" />
+                    </div>
+
+                    <div id="content">
+                        <i class="fa fa-id-card" aria-hidden="true"></i>
+                        @foreach (IdProof id in Enum.GetValues(typeof(IdProof)))
+                        {
+                            <input asp-for="Identityproof" required id="Idproof" type="radio" value="@id" /> @id
+                        }
+                    </div>
+
+                    <div id="content" class="PAN selectt">
+                        <i class="fa fa-id-badge" aria-hidden="true"></i>
+                        <input asp-for="Identitynumber" type="text" id="pan" onblur="PANValidate();" class="input-group form-control" placeholder="PAN Number" />
+                        <span id="lblinvalidPAN" asp-validation-for="Identitynumber" class="text-danger"></span>
+                    </div>
+
+                    <div id="content" class="Aadhar selectt">
+                        <i class="fa fa-id-badge" aria-hidden="true"></i>
+                        <input asp-for="Identitynumber" type="text" id="aadhar" onblur="AadharValidate();" class="input-group form-control" placeholder="Aadhar Number" />
+                        <span id="lblinvalida" asp-validation-for="Identitynumber" class="text-danger"></span>
+                    </div>
+
+                    <div id="content" class="Passport selectt">
+                        <i class="fa fa-id-badge" aria-hidden="true"></i>
+                        <input asp-for="Identitynumber" type="text" id="pass" onblur="PassValidate();" class="input-group form-control" placeholder="Passport Number" />
+                        <span id="lblinvalidp" asp-validation-for="Identitynumber" class="text-danger"></span>
+                    </div>
+
+
+                </div>
+
+
+
+
+                    <style type="text/css">
+
+
+                        .selectt {
+                            border: 1px solid #fff;
+                            margin: 10px;
+                            margin-left: 8px;
+                            padding: 5px;
+                            display: none;
+                        }
+                    </style>
+
+                    <script type="text/javascript">
+
+                        $(document).ready(function () {
+
+                            $('input[type="radio"]').click(function () {
+
+                                var inputValue = $(this).attr("value");
+
+                                var targetBox = $("." + inputValue);
+
+                                $(".selectt").not(targetBox).hide();
+
+                                $(targetBox).show();
+
+                            });
+                        });
+
+                        function numberValidate() {
+                            var num = document.getElementById('pep').value;
+                            if (num > 6) {
+                                document.getElementById('invalidpeople').innerHTML = "Booking can be done only for 6 persons at a time";
+                                lblinvalida.style.color = "red"
+                            }
+                            else if (num <= 0) {
+                                document.getElementById('invalidpeople').innerHTML = "Atleast 1 should be selected";
+                                lblinvalidpeople.style.color = "red"
+                            }
+                            else {
+                                document.getElementById('invalidpeople').innerHTML = "Correct";
+                                lblinvalidpeople.style.color = "green"
+                            }
+                        }
+
+                        function dObValidate() {
+                            var selectedText = document.getElementById('dob').value;
+                            var selectedDate = new Date(selectedText);
+                            var now = new Date();
+                            if (selectedDate > now) {
+                                document.getElementById('invalidob').innerHTML = "Date of Birth must be in the past";
+                                lblinvalidob.style.color = "red"
+                            }
+                            else {
+                                document.getElementById('invalidob').innerHTML = "Correct";
+                                lblinvalidob.style.color = "green"
+                            }
+                        }
+
+                        function AadharValidate() {
+                            var regexp = /^\d{4}\s\d{4}\s\d{4}$/;
+
+                            var x = document.getElementById("aadhar").value;
+                            if (regexp.test(x)) {
+                                document.getElementById('lblinvalida').innerHTML = "Correct";
+                                lblinvalida.style.color = "green"
+                            }
+                            else {
+                                document.getElementById('lblinvalida').innerHTML = "Invalid Aadhar Number";
+                                lblinvalida.style.color = "red"
+
+                            }
+                        }
+
+                        function PANValidate() {
+                            var regexp = /[A-Za-z]{5}\d{4}[A-Za-z]{1}/;
+
+                            var x = document.getElementById("pan").value;
+                            if (regexp.test(x)) {
+                                document.getElementById('lblinvalidPAN').innerHTML = "Correct";
+                                lblinvalidPAN.style.color = "green"
+                            }
+                            else {
+                                document.getElementById('lblinvalidPAN').innerHTML = "Invalid PAN Number";
+                                lblinvalidPAN.style.color = "red"
+
+                            }
+                        }
+
+                        function PassValidate() {
+                            var regexp = /^(?!^0+$)[a-zA-Z0-9]{6,9}$/;
+
+                            var x = document.getElementById("pass").value;
+                            if (regexp.test(x)) {
+                                document.getElementById('lblinvalidp').innerHTML = "Correct";
+                                lblinvalidp.style.color = "green"
+                            }
+                            else {
+                                document.getElementById('lblinvalidp').innerHTML = "Invalid Passport Number";
+                                lblinvalidp.style.color = "red"
+                            }
+                        }
+
+                        function MobileValidate() {
+                            var regexp = /^[6-9]\d{9}$/;
+
+                            var x = document.getElementById("m").value;
+                            if (regexp.test(x)) {
+                                document.getElementById('invalidM').innerHTML = "Correct";
+                                lblinvalidp.style.color = "green"
+                            }
+                            else {
+                                document.getElementById('invalidM').innerHTML = "Invalid Mobile Number";
+                                lblinvalidp.style.color = "red"
+                            }
+                        }
+
+                        function EmailValidate() {
+                            var regexp = /^([a-zA-Z0-9_\-\.]+)@@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([a-zA-Z0-9\-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;
+
+                            var x = document.getElementById("email").value;
+                            if (regexp.test(x)) {
+                                document.getElementById('invalie').innerHTML = "Correct";
+                                lblinvalidp.style.color = "green"
+                            }
+                            else {
+                                document.getElementById('invalie').innerHTML = "Invalid Email";
+                                lblinvalidp.style.color = "red"
+                            }
+                        }
+
+
+                    </script>
+                </div>
+</form>
+    </div>
+
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    }

@@ -1,0 +1,90 @@
+﻿@model Jungle.MVC.Api.Models.SafariViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<link href="~/css/CreatePark.css" rel="stylesheet" />
+
+
+
+<video class="bgvideo" id="my-video" src="~/videos/8K%20VIDEO%20ULTRAHD%20_%208K%20VIDEOS%20Collection%20of%20Wildlife%20Animals%20for%208k%20hdr%20tv%20_%208K%20120FPS%20(online-video-cutter.com).mp4" autoplay muted loop></video>
+
+
+<div class="col-md-4 offset-md-4">
+    <form asp-action="Edit" class="login-box">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="SafariId" class="control-label"></label>
+            <input asp-for="SafariId" disabled class="form-control" />
+            <span asp-validation-for="SafariId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SafariName" class="control-label"></label>
+            <input asp-for="SafariName" class="form-control" />
+            <span asp-validation-for="SafariName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SafariDate" class="control-label"></label>
+            <input asp-for="SafariDate" required value="" id="dob" onblur="AvailValidate();" data-date-format="yyyy-mm-dd" class="input-group form-control" />
+            <span asp-validation-for="SafariDate" id="invalidAvail" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SafariTime" class="control-label"></label>
+            <br />
+            <ul style="list-style-type:none;">
+                @foreach (Slot slot in Enum.GetValues(typeof(Slot)))
+                {
+                    <li>
+                        <input asp-for="SafariTime" type="radio" value="@slot" />
+                        @slot
+                    </li>
+                }
+            </ul>
+            <span asp-validation-for="SafariTime" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ParkId" class="control-label">Park</label>
+            <select asp-for="ParkId" class="form-control" asp-items="@ViewData["Park"] as SelectList">
+                <option value="" disabled>Select..</option>
+            </select>
+            <span asp-validation-for="ParkId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SafariCost" class="control-label"></label>
+            <input asp-for="SafariCost" class="form-control" />
+            <span asp-validation-for="SafariCost" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a style="position:relative;text-decoration:none; color:black; border:none; margin-top:100%; padding: 8px 8px; border-radius:4px;" asp-action="Index" class="foot btn-warning">Back to Safari List</a>
+        </div>
+
+        <script type="text/javascript">
+
+
+
+            function AvailValidate() {
+                var selectedText = document.getElementById('dob').value;
+                var selectedDate = new Date(selectedText);
+                var now = new Date();
+                if (selectedDate < now) {
+                    document.getElementById('invalidAvail').innerHTML = "Availability should be in future";
+                    lblinvalidob.style.color = "red"
+                }
+                else {
+                    document.getElementById('invalidAvail').innerHTML = "Correct";
+                    lblinvalidob.style.color = "green"
+                }
+            }
+
+
+        </script>
+        @*<div>
+            <a asp-action="Index">Back to List</a>
+        </div>*@
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,133 @@
+﻿@model IEnumerable<Jungle.Entities.SafariDetail>
+
+@{
+    ViewData["Title"] = "Index";
+
+    Pager pager = new Pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    }
+}
+
+<style>
+    body {
+        background-image: linear-gradient(rgb(5, 68, 31, 0.70),rgba(0, 2, 1, 0.486)), url("../images/tiger.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        color: white;
+    }
+
+</style>
+
+
+<link href="~/css/SafariIndex.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+
+@if (TempData["Message"] != null)
+{
+    <partial name="_alerts" />
+}
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+<h4 style="font-weight:bold;background-color:transparent;display:inline-block;padding:5px; border:1px solid snow;border-radius:2px;"><span> <i class="bi bi-file-plus" style="margin-right:10px"><a style="color:white;text-decoration:none;margin-right:4px;" asp-action="Create">Add New Safari</a></i></span></h4>
+}
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div class="form-group">
+                <label class="control-label">Search Safari by Park</label>
+                <select style="background-color: rgb(0 0 0 / 33%);" name="park" class="form-control  dropdownTransparent" asp-items="@ViewBag.ParkId">
+                    <option value="" selected disabled>Select Park..</option>
+                </select>
+                <span class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Count() == 0)
+{
+    <span class="alert-info">No Safaris in this Park</span>
+}
+
+@if (Model != null && Model.Count() > 0)
+{
+    <div class="row">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md-3 mt-3 ">
+
+                <div class="card cb1 text-center">
+
+                    <div class="card-body  ">
+
+                        <h5 class="card-title">  @Html.DisplayFor(modelItem => item.SafariName)</h5>
+                        <p class="card-text"><span><i class="bi bi-calendar"></i></span> @Html.DisplayFor(modelItem => item.SafariDate)</p>
+
+                        @if (!User.IsInRole("Admin"))
+                        {
+                        <a href="Details"> @Html.ActionLink("Book", "Book", new { Pid = item.ParkId, sid = item.SafariId }, new { @class = " btn btn-outline-light" })</a><br />
+                        }
+                        <div class="">
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")) {
+                            @Html.ActionLink(" ", "Edit", new { id = item.SafariId }, new { @class = " fa-3x bi bi-pencil-square iconEdit", @style = "color:white", title = "Confirm" })}
+                            @Html.ActionLink(" ", "Details", new { id = item.SafariId }, new { @class = " fa-3x bi bi-info-square iconDetails", @style = "color:white;padding-left:19px", title = "Confirm" })
+                            @if (User.Identity.IsAuthenticated && User.IsInRole("Admin")) {
+                            @Html.ActionLink(" ", "Delete", new { id = item.SafariId }, new { @class = "fa-3x bi bi-trash  iconDelete ", @style = "padding-left:25px;color:white", onclick = " return confirm('Are u sure want to delete?')" })}
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+}
+
+<footer>
+    <div class="container">
+        <div class="row">
+            @if (pager.TotalPages > 0)
+            {
+                <ul class="pagination justify-content-end">
+
+                    @if (pager.CurrentPage > 1)
+                    {
+
+                        <li>
+                            <a style="background-color:orangered;color:white;" class="page-link" asp-controller="Safari" asp-action="index"
+                               asp-route-pg="@(pager.CurrentPage - 1)">&laquo;</a>
+                        </li>
+                    }
+
+                    @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
+                    {
+                        <li class="page-item @(pge == pager.CurrentPage ? "active" : "")">
+                            <a style="background-color:orangered;color:white;" class="page-link" asp-controller="Safari" asp-action="index" asp-route-pg="@pge">@pge</a>
+                        </li>
+                    }
+
+                    @if (pager.CurrentPage < pager.TotalPages)
+                    {
+                        <li class="page-item">
+                            <a style="background-color:orangered;color:snow;" class="page-link" asp-controller="Safari" asp-action="index" asp-route-pg="@(pager.CurrentPage + 1)">&raquo;</a>
+                        </li>
+                    }
+                </ul>}
+        </div>
+    </div>
+</footer>

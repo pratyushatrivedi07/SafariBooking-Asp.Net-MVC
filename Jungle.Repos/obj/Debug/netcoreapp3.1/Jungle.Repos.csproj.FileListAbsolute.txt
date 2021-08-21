@@ -1,0 +1,70 @@
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.deps.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CopyComplete
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.deps.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CopyComplete
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CopyComplete
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.deps.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CopyComplete
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.csproj.CopyComplete
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Repos\obj\Debug\netcoreapp3.1\Jungle.Repos.pdb

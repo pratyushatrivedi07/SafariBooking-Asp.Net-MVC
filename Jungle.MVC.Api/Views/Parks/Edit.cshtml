@@ -1,0 +1,47 @@
+﻿@model Jungle.Entities.Parks
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<link href="~/css/CreatePark.css" rel="stylesheet" />
+
+<video id="my-video" class="bgvideo" src="~/videos/parkvideo.mp4" autoplay muted loop></video>
+
+<div class="col-md-4 content  offset-md-4">
+    <form asp-action="Edit" class="login-box">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="ParkId" class="control-label"></label>
+            <input asp-for="ParkId" disabled class="form-control" />
+            <span asp-validation-for="ParkId" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Location" class="control-label"></label>
+            <input asp-for="Location" class="form-control" />
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Fee" class="control-label"></label>
+            <input asp-for="Fee" class="form-control" />
+            <span asp-validation-for="Fee" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Save" class="btn btn-primary" />
+        </div>
+        <div>
+            <a style="position:relative;text-decoration:none; color:black; border:none; margin-top:100%; padding: 8px 8px; border-radius:4px;" class="foot set bg-warning" asp-action="Index">Back to Park List</a>
+        </div>
+    </form>
+</div>
+
+
+
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }

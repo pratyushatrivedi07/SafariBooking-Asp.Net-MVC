@@ -1,0 +1,73 @@
+﻿@model Jungle.MVC.Api.Models.VehicleViewModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+    <link href="~/css/CreatePark.css" rel="stylesheet" />
+    <video class="bgvideo" id="my-video" src="~/videos/vehiclevideo.mp4" autoplay muted loop></video>
+    <div class="col-md-4 offset-md-4">
+        <form asp-action="Edit" class="login-box">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Vid" class="control-label"></label>
+                <input asp-for="Vid" disabled class="form-control" />
+                <span asp-validation-for="Vid" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Vtype" class="control-label"></label>
+                <input asp-for="Vtype" value="Park" readonly class="form-control" />
+                <span asp-validation-for="Vtype" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EntryCost" class="control-label"></label>
+                <input asp-for="EntryCost" class="form-control" />
+                <span asp-validation-for="EntryCost" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Capacity" class="control-label"></label>
+                <ul style="list-style-type:none;">
+                    @foreach (capacity cap in Enum.GetValues(typeof(capacity)))
+                    {
+                        <li>
+                            <input asp-for="Capacity" type="radio" value="@cap" />
+                            @cap
+                        </li>
+                    }
+                </ul>
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParkId" class="control-label"></label>
+                <select asp-for="ParkId" class="form-control" asp-items="@ViewBag.ParkId">
+                    <option value="" selected disabled>Select..</option>
+                </select>
+                <span asp-validation-for="ParkId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" id="setText" value="Save" class="btn btn-primary" />
+                <a style="position:relative;text-decoration:none; color:black; border:none; margin-top:100%; padding: 8px 8px; border-radius:4px;" asp-action="Index" class="foot btn-warning">Back to Vehicle List</a>
+            </div>
+        </form>
+    </div>
+
+    <script>
+
+        $("#setText").click(function (event) {
+            $('#input').val("Park");
+        });
+    </script>
+
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }
+
+            }

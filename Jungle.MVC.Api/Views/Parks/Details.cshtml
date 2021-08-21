@@ -1,0 +1,31 @@
+﻿@model Jungle.Entities.Parks
+
+@{
+    ViewData["Title"] = "Details";
+}
+<link href="~/css/ParkDetail.css" rel="stylesheet" />
+
+
+
+<div class="body">
+    <h4 style="text-align:center;text-decoration:dashed;"> Park Details</h4>
+    <table>
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.Name)</td>
+            <td>     @Html.DisplayFor(model => model.Name)</td>
+        </tr>
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.Location)</td>
+            <td>   @Html.DisplayFor(model => model.Location)</td>
+        </tr>
+        <tr>
+            <td>   @Html.DisplayNameFor(model => model.Fee)</td>
+            <td>
+                @Html.DisplayFor(model => model.Fee)
+
+            </td>
+        </tr>
+       
+    </table>
+    <a style="position:relative;text-decoration:none; margin-top:30px; margin-left:20%; color:black; border:none; margin-top:100%; padding: 8px 8px; border-radius:4px;" asp-action="Index" class="foot bg-warning">Back to Park List</a>
+</div>

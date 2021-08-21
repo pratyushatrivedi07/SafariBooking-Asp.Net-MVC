@@ -1,0 +1,60 @@
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.deps.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.genruntimeconfig.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.deps.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.dev.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.genruntimeconfig.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.genruntimeconfig.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.deps.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.dev.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.genruntimeconfig.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.genruntimeconfig.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Entities\obj\Debug\netcoreapp3.1\Jungle.Entities.csproj.AssemblyReference.cache

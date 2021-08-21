@@ -1,0 +1,129 @@
+﻿@model IEnumerable<Jungle.Entities.Parks>
+
+@{ ViewData["Title"] = "Index";
+    Pager pager = new Pager();
+    int pageNo = 0;
+    if (ViewBag.Pager != null)
+    {
+        pager = ViewBag.Pager;
+        pageNo = pager.CurrentPage;
+    } }
+
+
+@if (TempData["Message"] != null)
+{
+<partial name="_alerts" />
+}
+
+<style>
+    body {
+        background-image: linear-gradient(rgb(5, 68,31, 0.70),rgba(0, 2, 1, 0.486)),url("../images/parkwp.jpg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-attachment: fixed;
+        color: white;
+    }
+</style>
+
+<link href="~/css/ParkIndex.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+@if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+{
+
+<h4 style="font-weight:bold;background-color:transparent;display:inline-block;padding:5px; border:1px solid snow;border-radius:2px;"><span> <i class="bi bi-file-plus" style="margin-right:10px"><a style="color:white;text-decoration:none;margin-right:4px;" asp-action="Create">Add New Park</a></i></span></h4>
+}
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Index">
+            <div class="form-group">
+                <label class="control-label">Search By Park Name or Location</label>
+                <input type="text" name="criteria" required class="form-control" />
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Search" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (Model != null && Model.Count() == 0)
+{
+<span class="alert-info">No Park Found</span>}
+
+@if (Model != null && Model.Count() > 0)
+{
+<div class="row">
+    @foreach (var item in Model)
+    {
+<div class="col-md-3 mt-3 ">
+
+    <div class="card cb1 text-center">
+
+        <div class="card-body">
+
+
+            <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name) </h5>
+            <h6 class="card-text"><span><i class="bi bi-geo-alt-fill"></i></span>  @Html.DisplayFor(modelItem => item.Location)   </h6>
+
+            <a href="Details"> @Html.ActionLink("Explore ", "Details", new { id = item.ParkId }, new { @class = " btn btn-outline-light" })</a><br />
+
+
+            <div class="">
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+            @Html.ActionLink(" ", "Edit", new { id = item.ParkId }, new { @class = " fa-3x bi bi-pencil-square iconEdit", @style = "color:white", title = "Confirm" })}
+                <a class="m-2" asp-action="SafariByPark" asp-controller="Safari" asp-route-id="@item.ParkId"><i id="tiger" class="fa-5x fas fa-paw " style="font-size: 20px; color: snow; margin-top: 20px; padding-left: 13px; color: darkgoldenrod;"></i></a>
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+
+            @Html.ActionLink(" ", "Delete", new { id = item.ParkId }, new { @class = "fa-3x bi bi-trash  icon iconDelete", @style = "padding-left:30px;color:white", onclick = " return confirm('Are u sure want to delete?')" })
+                }
+            </div>
+            
+        </div>
+    </div>
+</div>}
+</div>}
+
+<footer>
+    <div class="container">
+        <div class="row">
+            @if (pager.TotalPages > 0)
+            {
+<ul class="pagination justify-content-end">
+
+    @if (pager.CurrentPage > 1)
+    {
+
+<li>
+    <a style="background-color:orangered;color:white;" class="page-link" asp-controller="Parks" asp-action="index"
+       asp-route-pg="@(pager.CurrentPage - 1)">&laquo;</a>
+</li>
+}
+
+
+    @for (var pge = pager.StartPage; pge <= pager.EndPage; pge++)
+    {
+<li class="page-item @(pge == pager.CurrentPage ? "active" : "")">
+    <a style="background-color:orangered;color:white;" class="page-link" asp-controller="Parks" asp-action="Index" asp-route-pg="@pge">@pge</a>
+</li>
+}
+
+
+    @if (pager.CurrentPage < pager.TotalPages)
+    {
+<li class="page-item">
+    <a style="background-color:orangered;color:snow;" class="page-link" asp-controller="Parks" asp-action="index" asp-route-pg="@(pager.CurrentPage + 1)">&raquo;</a>
+</li>
+}
+</ul>}
+
+
+        </div>
+    </div>
+</footer>

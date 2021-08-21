@@ -1,0 +1,334 @@
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.exe
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.deps.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.Manifest.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.xml
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\JungleSafari.Api.styles.css
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.genruntimeconfig.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CopyComplete
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.exe
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.deps.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.dev.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.Manifest.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.xml
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\JungleSafari.Api.styles.css
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.RazorTargetAssemblyInfo.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CopyComplete
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.genruntimeconfig.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.exe
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.Manifest.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.xml
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\JungleSafari.Api.styles.css
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CopyComplete
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.genruntimeconfig.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.exe
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.deps.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.dev.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.Manifest.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.xml
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\JungleSafari.Api.styles.css
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.RazorTargetAssemblyInfo.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CopyComplete
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.genruntimeconfig.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.exe
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.runtimeconfig.dev.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Entities.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Repos.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.Manifest.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\staticwebassets\JungleSafari.Api.StaticWebAssets.xml
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\JungleSafari.Api.styles.css
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.csproj.CopyComplete
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\JungleSafari.Api\obj\Debug\netcoreapp3.1\JungleSafari.Api.genruntimeconfig.cache

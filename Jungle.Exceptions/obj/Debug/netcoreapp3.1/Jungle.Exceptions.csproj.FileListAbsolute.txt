@@ -1,0 +1,45 @@
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.deps.json
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.deps.json
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Core MVC\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.deps.json
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.AssemblyReference.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfoInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfo.cs
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+D:\capgemini project\Sprint 2\New folder\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.deps.json
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\bin\Debug\netcoreapp3.1\Jungle.Exceptions.pdb
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.AssemblyReference.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfoInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.AssemblyInfo.cs
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.dll
+C:\Users\Praveen Trivedi\Desktop\ASP.NET Web API Core\JungleSafari_Api_EF\Jungle.Exceptions\obj\Debug\netcoreapp3.1\Jungle.Exceptions.pdb

@@ -1,0 +1,121 @@
+﻿
+body {
+    background-image: linear-gradient(rgba(2, 109, 46, 0.7),rgba(0, 2, 1, 0.486)),url(../images/g.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    color: white;
+}
+
+.title {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 40rem;
+    font-size: 4rem;
+    text-align: center;
+}
+.dropdownTransparent {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    color: #fff;
+}
+
+.card {
+    font-size: 10px;
+    width: 245px;
+    height: 190px;
+    position: relative;
+    /* padding: 5rem 2.5rem;*/
+    border-radius: 1rem;
+    border: 1px solid transparent;
+    backdrop-filter: blur(1rem);
+    box-shadow: 1.3rem 1.4rem 1.3rem rgba(0,0,0,0.5);
+    border-top-color: rgba(225,225,225,0.5);
+    border-left-color: rgba(225,225,225,0.5);
+    border-bottom-color: rgba(225,225,225,0.1);
+    border-right-color: rgba(225,225,225,0.1);
+    /* display: flex;
+    flex-direction: row;*/
+}
+
+.cb1 {
+    background-color: rgba(225,225,225,0.1);
+    /*background-color:linear-gradient(to right bottom,rgba(225,225,225,0.1)) ;*/
+}
+
+.card-number {
+    color: rgba(225,225,225,0.08);
+    font-size: 2rem;
+    z-index: -1;
+    position: absolute;
+    top: -1rem;
+    right: 2.5rem;
+}
+input[type="text"] {
+    background: transparent;
+    border: 1px solid snow;
+}
+
+
+
+    .btn:hover {
+        box-shadow: 0 0 0.3rem 1rem rgba(0,0,0,0.3);
+        border-color: snow;
+    }
+
+.iconDelete:hover {
+    color: #db1c04;
+    text-shadow: 0 0 13px #db1c04;
+    transition: all 0.5s ease;
+}
+
+.iconDetails:hover {
+    color: #4dc247;
+    text-shadow: 0 0 13px #4dc247;
+    transition: all 0.5s ease;
+}
+
+.iconEdit:hover {
+    color: #0223c9;
+    text-shadow: 0 0 13px #0223c9;
+    transition: all 0.5s ease;
+}
+
+footer {
+    position: absolute;
+    display: inline-block;
+    right: 0px;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+    footer a {
+        color: darkcyan;
+        font-weight: bolder;
+    }
+
+
+    footer li a {
+        background-color: orangered;
+        color: snow;
+    }
+
+        footer li a:hover {
+            background-color: red;
+        }
+
+.page-link {
+    background-color: snow;
+    color: black;
+}
+
+    .page-link:active {
+        background-color: orangered;
+    }
+
+    .page-link:hover {
+        background-color: black;
+        opacity: 0.6;
+    }
